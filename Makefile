@@ -4,7 +4,7 @@ LIBFT_MAKE = make --no-print-directory -C libft
 
 NAME = minishell
 
-SRC = test.c
+SRC = main.c
 
 OBJ = $(SRC:.c=.o)
 
